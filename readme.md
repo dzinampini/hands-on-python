@@ -5,9 +5,4 @@ Answers to code challenges from the "Hands on Introduction to Programming using 
 - A Python IDE of your choice. I personally prefer Visual Studio Code and I run my scripts from Git Bash. I also am loving Jupiter Notebooks but Visual Studio Code is still performing better for me.
 - "Hands on Introduction to Programming using Python" course obtained from Technical Security Institute. 
 
-## Need help
-If you need assistance contact Dzinaishe Mpini:
-- via Twitter: @dzinapini
-- via phone: +263774756502
-- via email: dzinampini@gmail.com 
 
